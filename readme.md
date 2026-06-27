@@ -45,7 +45,7 @@ preorder-manager-server/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nihalxofficial/preorder-manager-server
 cd preorder-manager-server
 ```
 
